@@ -1,0 +1,5 @@
+{
+  "name": "SalesPulse AI",
+  "description": "A comprehensive sales tracking application featuring dashboard analytics, customer management, product catalogue, sales entry, and AI-powered insights using Gemini.",
+  "requestFramePermissions": []
+}
